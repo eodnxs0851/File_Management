@@ -72,17 +72,17 @@ PowerToys PowerRename 툴과 정규식(Regular Expression)을 활용하여 표�
     <td valign="top">
       <img src="https://github.com/user-attachments/assets/9adbfaf4-5820-4ee8-8e94-3c21a409c4ef" width="100%">
       <br><br>
-      Backup_IMBA_64.pptx (날짜 누락)<br>
-      Untitled_IMBA_4161.pdf (무의미한 이름)<br>
-      KakaoTalk_260114_65826.pptx (메신저 다운로드 파일)<br>
+      Backup_IMBA_64.pptx (날짜 누락)<br><br>
+      Untitled_IMBA_4161.pdf (무의미한 이름)<br><br>
+      KakaoTalk_260114_65826.pptx (메신저 다운로드 파일)<br><br>
       220326_meeting_IMBA_748.pptx (순서 꼬임: 카테고리가 먼저 옴)
     </td>
     <td valign="top">
       <img src="https://github.com/user-attachments/assets/b534433e-eba1-42f5-912d-bc7a7493fd0d" width="100%">
       <br><br>
-      260301_IMBA_Backup_No64_v01.pptx (날짜 강제 부여, 포맷 통일)<br>
-      260301_IMBA_Draft_No4161_v01.pdf ('Untitled'를 'Draft'라는 용어로 변경)<br>
-      260114_IMBA_Received_File65826_v01.pptx (파일명 속 날짜 추출, 'KakaoTalk' 제거 후 'Received'로 변경)<br>
+      260301_IMBA_Backup_No64_v01.pptx (날짜 강제 부여, 포맷 통일)<br><br>
+      260301_IMBA_Draft_No4161_v01.pdf ('Untitled'를 'Draft'라는 용어로 변경)<br><br>
+      260114_IMBA_Received_File65826_v01.pptx (파일명 속 날짜 추출, 'KakaoTalk' 제거 후 'Received'로 변경)<br><br>
       220326_IMBA_meeting_No748_v01.pptx (부서명과 카테고리 순서 재배치)
     </td>
   </tr>
